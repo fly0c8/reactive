@@ -1,5 +1,5 @@
 
-# Arni's Software Cheatsheet
+# Arnis Software Cheatsheet
 ## Using cgo to call C code from Go and vice versa
 CGO makes it easy to call C code from Go and vice versa. Unfortunately there are some pitfalls, which can be quite annoying when operating under a tight schedule. That said, basic usage is quite simple and works great. Here is a small tutorial.
 ### Basics
@@ -17,6 +17,6 @@ CGO makes it easy to call C code from Go and vice versa. Unfortunately there are
       }
     }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMzNzI4MDQsLTEzMDY5ODkwODZdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NjM3NzUwNTUsLTEwOTMzNzI4MDQsLT
+EzMDY5ODkwODZdfQ==
 -->
