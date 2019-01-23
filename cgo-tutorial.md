@@ -4,7 +4,7 @@
 CGO makes it easy to call C code from Go and vice versa. Unfortunately there are some pitfalls, which can be quite annoying when operating under a tight schedule. That said, basic usage is quite simple and works great. Here is a small tutorial.
 ### Basics
 #### How to call a C Library function from Go
-#### How to pass c
+#### How to pass callback functions into C library
 ### Summary
 
 
@@ -17,5 +17,6 @@ CGO makes it easy to call C code from Go and vice versa. Unfortunately there are
       }
     }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjM3NDQ3MywtMTMwNjk4OTA4Nl19
+eyJoaXN0b3J5IjpbLTEwOTMzNzI4MDQsLTEzMDY5ODkwODZdfQ
+==
 -->
